@@ -1,5 +1,6 @@
 site_name: BDIGSEC Minecraft server
-
+markdown_extensions:
+  - attr_list
 theme:
   name: material
   palette:
