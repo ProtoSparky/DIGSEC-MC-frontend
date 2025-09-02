@@ -34,5 +34,7 @@ Her er listen av mods du må ha for å kunne joine serveren. Serveren bruker min
 |Storage drawers|1.20.1-12.14.0|[https://modrinth.com/mod/storagedrawers](https://modrinth.com/mod/storagedrawers)|
 |Traveler's backpack|1.20.1-9.1.38|[https://modrinth.com/mod/travelersbackpack/versions?l=fabric](https://modrinth.com/mod/travelersbackpack/versions?l=fabric)|
 |Chunk loaders |1.2.9-fabric-mc1.20.1|[https://modrinth.com/mod/chunk-loaders](https://modrinth.com/mod/chunk-loaders)|
+|Powah!|5.0.11-fabric|[https://modrinth.com/mod/powah](https://modrinth.com/mod/powah)|
+|Applied Energistics 2 Wireless Terminals|15.2.1-fabric|[https://modrinth.com/mod/applied-energistics-2-wireless-terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals)
 
 
